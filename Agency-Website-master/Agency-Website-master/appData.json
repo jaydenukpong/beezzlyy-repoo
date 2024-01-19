@@ -1,0 +1,26 @@
+[
+  {
+    "name": "helpPosts",
+    "title": "We have helped more than 500 companies from all niches",
+    "description": "Check out some of our other Blogs!",
+    "PostsObject": [
+      {
+        "title": "How can a website help your buissness.",
+        "description": "Thinking of getting a website for your buissness? Mayb-",
+        "imgURL": "./images/blogpostimage.jpg"
+      }
+    ]
+  },
+  {
+    "name": "latestBlogAndNews",
+    "title": "Latest Blog And News",
+    "description": "",
+    "PostsObject": [
+      {
+        "title": "How Can a Website help Your Buissness",
+        "description": "Thinking of getting a website for your buissness? Mayb-",
+        "imgURL": "./images/blogpostimage.jpg"
+      }
+    ]
+  }
+]
